@@ -9,4 +9,10 @@
             android:icon="@drawable/ic_aboutcapell"
             app:showAsAction="always"/>
 
+        <item
+            android:id="@+id/back"
+            android:title="Back"
+            android:icon="@drawable/ic_arrow"
+            app:showAsAction="always"/>
+
 </menu>

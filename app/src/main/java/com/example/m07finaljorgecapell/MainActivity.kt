@@ -29,7 +29,12 @@ class MainActivity : AppCompatActivity() {
         var itemView = item.itemId
         when (itemView) {
             R.id.About -> Toast.makeText(applicationContext,"Felicidades Capell aprobao",Toast.LENGTH_SHORT).show()
+            R.id.back -> {
+                onBackPressed()
+                true
+            }
         }
+
         return false
 
     }
