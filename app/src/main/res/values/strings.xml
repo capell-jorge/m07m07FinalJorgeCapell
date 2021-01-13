@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">m07FinalJorgeCapell</string>
+    <string name="btnIr">Primera animacion</string>
+    <string name="btnIr2">Segunda animacion</string>
+    <string name="btnToB">Primera animacion</string>
+    <string name="btnToC">Segunda animacion</string>
+    <string name="btnToA">Volver al menu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
